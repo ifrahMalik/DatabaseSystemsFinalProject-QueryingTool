@@ -9,7 +9,7 @@ The user interface seeks to answer some of our research questions by allowing th
 explain the objective and problem and how our database can provide solution to these problems.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Proposal%201.docx
 
-**Phase III **
+**Phase III**
 explain the database model using ER diagram. It gives the reasoning behind database design which explain the goals of the sustainability project.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%203%20BUS_CSC.pdf
 
@@ -21,8 +21,7 @@ https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/CSC%20315_%20Phase%
 All the relations in the relational schema are normalized to Boyce–Codd normal form (BCNF). Defines the different views (virtual tables) required. For each view list the data and transaction requirements. Give a few examples of queries, in English, to illustrate. Design a complete set of SQL queries to satisfy the transaction requirements identified in the previous stages, using the relational schema and views defined in.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%20IV%20%E2%80%93%20Elaboration_%20Database%20Design.pdf
 
-**Final Report **
-
+**Final Report**
 The final report shows how the database provides a solution to the problem we identified in our proposal earlier. It also focuses on the positive and negative ethical implications of the suggested proposal and explains these concerns in detail.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%204%20(BUS385_CSC315)%20(1).docx
 
