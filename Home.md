@@ -4,8 +4,10 @@ The database contains information pertaining to the number of fuel vehicles, ele
 
 The user interface seeks to answer some of our research questions by allowing the user to view data from certain tables grouped from specific queries. The user can view all four tables in the database as well as view certain pieces of data that will answer our research questions. The main question we seek to answer is: Do electric vehicles lower Greenhouse gas emissions in municipalities?
 
+**Phase I Video Proposal**
+YouTube link:
 
-**Phase I Proposal**
+**Phase II Written Proposal**
 explain the objective and problem and how our database can provide solution to these problems.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Proposal%201.docx
 
@@ -25,5 +27,6 @@ https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%20IV%20%E2%80
 The final report shows how the database provides a solution to the problem we identified in our proposal earlier. It also focuses on the positive and negative ethical implications of the suggested proposal and explains these concerns in detail.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%204%20(BUS385_CSC315)%20(1).docx
 
-
+**Final Video** 
+YouTube Link:
 
