@@ -5,7 +5,7 @@ The database contains information pertaining to the number of fuel vehicles, ele
 The user interface seeks to answer some of our research questions by allowing the user to view data from certain tables grouped from specific queries. The user can view all four tables in the database as well as view certain pieces of data that will answer our research questions. The main question we seek to answer is: Do electric vehicles lower Greenhouse gas emissions in municipalities?
 
 **Phase I Video Proposal**
-YouTube link:
+YouTube link: https://youtu.be/6xhL-jhVAzA
 
 **Phase II Written Proposal**
 explain the objective and problem and how our database can provide solution to these problems.
