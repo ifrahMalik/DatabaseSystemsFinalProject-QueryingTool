@@ -9,6 +9,10 @@ Proposal
 explain the objective and problem and how our database can provide solution to these problems.
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Proposal%201.docx
 
+Phase III 
+explain the database model using ER diagram. It gives the reasoning behind database design which explain the goals of the sustainability project.
+https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%203%20BUS_CSC.pdf
+
 Phase III This criterion is linked to a Learning OutcomeMap the ER diagram to a relational schema. Estimate database size and types and average number of searches
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/CSC%20315_%20Phase%20III.docx.pdf
 
