@@ -28,5 +28,4 @@ The final report shows how the database provides a solution to the problem we id
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%204%20(BUS385_CSC315)%20(1).docx
 
 **Final Video** 
-YouTube Link:
-
+YouTube Link: https://youtu.be/j_YA8NSYZJs
