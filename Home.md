@@ -5,8 +5,10 @@ The database contains information pertaining to the number of fuel vehicles, ele
 The user interface seeks to answer some of our research questions by allowing the user to view data from certain tables grouped from specific queries. The user can view all four tables in the database as well as view certain pieces of data that will answer our research questions. The main question we seek to answer is: Do electric vehicles lower Greenhouse gas emissions in municipalities?
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/91216707/235321045-8f7cbacb-6b48-40d4-a6f3-3a473ed1dde7.png">
 
-
+Phase III This criterion is linked to a Learning OutcomeMap the ER diagram to a relational schema. Estimate database size and types and average number of searches
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/CSC%20315_%20Phase%20III.docx.pdf
+
+
 
 
 
