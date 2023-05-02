@@ -8,8 +8,10 @@ The user interface seeks to answer some of our research questions by allowing th
 Phase III This criterion is linked to a Learning OutcomeMap the ER diagram to a relational schema. Estimate database size and types and average number of searches
 https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/CSC%20315_%20Phase%20III.docx.pdf
 
-Demonstrate that all the relations in the relational schema are normalized to Boyce–Codd normal form (BCNF). Define the different views (virtual tables) required. For each view list the data and transaction requirements. Give a few examples of queries, in English, to illustrate. Design a complete set of SQL queries to satisfy the transaction requirements identified in the previous stages, using the relational schema and views defined in.[
-](https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%20IV%20%E2%80%93%20Elaboration_%20Database%20Design.pdf)
+Phase IV
+All the relations in the relational schema are normalized to Boyce–Codd normal form (BCNF). Defines the different views (virtual tables) required. For each view list the data and transaction requirements. Give a few examples of queries, in English, to illustrate. Design a complete set of SQL queries to satisfy the transaction requirements identified in the previous stages, using the relational schema and views defined in.
+https://github.com/TCNJ-degoodj/cab-project-1/blob/main/docs/Phase%20IV%20%E2%80%93%20Elaboration_%20Database%20Design.pdf
+
 
 
 
