@@ -1,4 +1,4 @@
-The database contains information pertaining to the number of fuel vehicles, electric vehicles, community profile data, and amount of emissions from fuel based passenger vehicles.
+This project was created for the Sustainable Jersey Staff. The database contains information pertaining to the number of fuel vehicles, electric vehicles, community profile data, and amount of emissions from fuel-based passenger vehicles. The User-Interface makes it easier to get information for research purposes by providing options to run popular queries. 
 
 
 Run the following command to create the database and populate the tables:
